@@ -17,7 +17,20 @@ even spot possible errors. This is through the use of linters. Linters are often
 Editor/IDE. Install it and let it help you
 
 
-#### 2. Think and write like an author
+#### 2. Learn of your Programming Language's Coding Standard
+
+Notice this isn't the first advice? Because linters are the fastest way to apply the standards
+
+to your code. But that doesn't mean you shouldn't read your language's standards.
+
+Read it, try to be familiar with it and understand the reasoning behind each coding standards.
+
+Over time, by using linters and applying these coding standards to your code, you start to
+
+know it by heart. And by then YOU are the linter of your own code.
+
+
+#### 3. Think and write like an author
 
 I see a lot of starting coders not utilising this simple concept of "blank lines".
 
@@ -36,7 +49,7 @@ Think and write like an author. Every line of code are grouped into a "paragraph
 readers some pause.
 
 
-#### 3. Make your code future-readable and future-understandable rather than future-proof
+#### 4. Make your code future-readable and future-understandable rather than future-proof
 
 The common pitfall of most starting coders is that, they try to make their code future-proof.
 
